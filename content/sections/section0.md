@@ -6,4 +6,4 @@ improvecontrast: true
 
 # SodaPixel
 
-A free, responsive, one page Hugo/Bootstrap theme originally created by Start Bootstrap.
+A Web3 dev's journey.
