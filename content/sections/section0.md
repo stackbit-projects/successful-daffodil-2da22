@@ -4,6 +4,6 @@ weight: 1
 improvecontrast: true
 ---
 
-# Grayscale
+# SodaPixel
 
 A free, responsive, one page Hugo/Bootstrap theme originally created by Start Bootstrap.
