@@ -3,7 +3,7 @@ title: "About"
 weight: 2
 ---
 
-## About Grayscale
+## About Soda Pixel
 
 Grayscale is a free Hugo theme, originally created for Bootstrap by Start Bootstrap. It can be yours right now, simply download the template from [the Github page](https://github.com/runningstream/hugograyscale/). The theme is open source, and you can use it for any purpose, personal or commercial.
 
